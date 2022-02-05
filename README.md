@@ -1,7 +1,7 @@
 <h1 align="center">Shoban Bhowmik</h1>
 <h3 align="center">A passionate full stack web developer and flutter developer</h3>
 
-<p align="center">I aim To become an Application Support Analyst that improves performance of an organization’s
+<p align="center">I aim to be an Application Support Analyst that improves performance of an organization’s
     trading
     architecture. To achieve this, to pursue a Bachelor’s degree in Computer Science and gain expertise in
     Unix/Linux
